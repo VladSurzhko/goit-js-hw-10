@@ -18,3 +18,36 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-list-item{
+list-style: none; 
+display: flex;
+margin-bottom: 20px; 
+}
+
+.country-info__details{
+  font-family: Raleway, sans-serif;
+  font-weight: 800;
+  font-size: 18px;  
+}
+
+.country-list-item__name{
+margin-left: 20px; 
+font-weight: 800; 
+}
+
+.country-list-item__flag{
+width: 100px;
+}
+.country-list{
+padding: 0px;  
+}
+
+
+.country-info__card{
+
+}
+
+.country-info__flag{
+  width: 300px;
+}
